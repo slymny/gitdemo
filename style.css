@@ -1,3 +1,14 @@
 body {
   background-color: red;
+  text-align: center;
 }
+
+li {
+  list-style: none;
+  color: aliceblue;
+}
+
+img {
+  max-width: 500px;
+}
+
