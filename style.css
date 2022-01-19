@@ -10,6 +10,8 @@ li {
 
 img {
   max-width: 500px;
+  border: 1px solid #aaa;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 footer {
